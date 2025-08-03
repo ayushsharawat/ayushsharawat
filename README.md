@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+through+Code;Building+the+Future+with+AI+and+Web+Tech;Always+Exploring+New+Technologies" alt="Secondary Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+through+Code;Building+the+Future+with+AI+and+Web+Tech;Always+Exploring+New+Technologies" alt="Secondary Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -39,42 +37,38 @@
 
 ### 👨‍💻 Quick Facts
 
-```javascript
-const ayush = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    education: "B.Tech in Computer Science & Engineering",
-    currentRole: "Full Stack Developer & AI/ML Enthusiast",
-    codingYears: new Date().getFullYear() - 2020,
-    favoriteLanguages: ["JavaScript", "Python", "TypeScript"],
-    currentlyBuilding: "Portfolio 2.0 & AI Projects",
-    interests: [
-        "Web Development 🌐", 
-        "Machine Learning 🤖", 
-        "Problem Solving 🧩",
-        "Open Source 🌟"
-    ],
-    funFact: "I debug with console.log() and I'm not ashamed! 😄",
-    currentlyLearning: [
-        "Advanced React Patterns", 
-        "Deep Learning", 
-        "Cloud Architecture",
-        "System Design"
-    ],
-    askMeAbout: [
-        "Web Dev", "AI/ML", 
-        "Data Structures", "System Design"
-    ],
-    hobbies: [
-        "Coding 💻", "Chess ♟️", 
-        "Reading Tech Blogs 📚", 
-        "Contributing to Open Source 🔓"
-    ],
-    goals2024: "Master System Design & Build AI Products",
-    motto: "Code, Learn, Repeat! 🔄"
-};
+**🔸 Pronouns:** He/Him  
+**🔸 Location:** India 🇮🇳  
+**🔸 Education:** B.Tech in Computer Science & Engineering  
+**🔸 Current Role:** Full Stack Developer & AI/ML Enthusiast  
+**🔸 Coding Since:** 2020 (5+ years)  
+**🔸 Favorite Languages:** JavaScript, Python, TypeScript  
+**🔸 Currently Building:** Portfolio 2.0 & AI Projects  
 
-console.log("Welcome to my GitHub profile! 🚀");
+**🔸 Interests:**
+- Web Development 🌐
+- Machine Learning 🤖
+- Problem Solving 🧩
+- Open Source 🌟
+
+**🔸 Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
+
+**🔸 Currently Learning:**
+- Advanced React Patterns
+- Deep Learning
+- Cloud Architecture
+- System Design
+
+**🔸 Ask Me About:** Web Dev, AI/ML, Data Structures, System Design
+
+**🔸 Hobbies:**
+- Coding 💻
+- Chess ♟️
+- Reading Tech Blogs 📚
+- Contributing to Open Source 🔓
+
+**🔸 2024 Goals:** Master System Design & Build AI Products  
+**🔸 Motto:** Code, Learn, Repeat! 🔄
 ```
 
 </div>
@@ -186,48 +180,6 @@ console.log("Welcome to my GitHub profile! 🚀");
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌟 ZyanStack - Full Stack E-commerce Platform
-[![ZyanStack](https://github-readme-stats.vercel.app/api/pin/?username=ayushsharawat&repo=ZyanStack&theme=tokyonight)](https://github.com/ayushsharawat/ZyanStack)
-
-**Tech Stack:** `MERN Stack` `Stripe Integration` `JWT Authentication` `Redux`
-
-A comprehensive e-commerce platform with real-time inventory management, secure payment processing, and responsive design.
-
----
-
-### 🎵 Audio Classification using CNN
-[![Audio-CNN](https://github-readme-stats.vercel.app/api/pin/?username=ayushsharawat&repo=Audio-CNN&theme=tokyonight)](https://github.com/ayushsharawat/Audio-CNN)
-
-**Tech Stack:** `Python` `TensorFlow` `Librosa` `CNN` `Machine Learning`
-
-Deep learning model for audio classification using Convolutional Neural Networks with 92% accuracy on urban sound classification.
-
----
-
-### 🤖 SAAR.AI - AI-Powered Assistant
-[![SAAR](https://github-readme-stats.vercel.app/api/pin/?username=ayushsharawat&repo=saar&theme=tokyonight)](https://github.com/ayushsharawat/saar)
-
-**Tech Stack:** `Python` `Natural Language Processing` `OpenAI API` `Flask`
-
-Intelligent AI assistant with natural language processing capabilities and context-aware responses.
-
----
-
-### 🔍 RepoQuest - GitHub Repository Explorer
-[![RepoQuest](https://github-readme-stats.vercel.app/api/pin/?username=ayushsharawat&repo=RepoQuest&theme=tokyonight)](https://github.com/ayushsharawat/RepoQuest)
-
-**Tech Stack:** `React` `GitHub API` `Tailwind CSS` `RESTful APIs`
-
-Advanced GitHub repository search and analysis tool with detailed metrics and visualization.
-
-</div>
-
----
 
 ## 🏅 Achievements & Certifications
 
@@ -353,22 +305,12 @@ console.log("Always learning, always growing! 🚀");
 
 <div align="center">
   <h3>🐍 Watch me contribute!</h3>
-  <img src="https://raw.githubusercontent.com/ayushsharawat/ayushsharawat/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
   <h3>🎯 Current Vibe</h3>
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</div>
-
-<div align="center">
-  <h3>📊 Weekly Development Breakdown</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ayushsharawat&theme=tokyonight&layout=compact" alt="Wakatime Stats" />
-</div>
-
-<div align="center">
-  <h3>🎵 Currently Listening To</h3>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ayushsharawat&count=1&unique=true" alt="Spotify" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
