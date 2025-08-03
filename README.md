@@ -3,11 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ayush+Sharawat+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Problem+Solver+🧩;Always+Learning+📚;Open+Source+Contributor+🌟" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Turning+Ideas+into+Reality+through+Code;Building+the+Future+with+AI+and+Web+Tech;Always+Exploring+New+Technologies" alt="Secondary Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ayush+Sharawat+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Always+Learning+📚" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -41,33 +37,26 @@
 **🔸 Location:** India 🇮🇳  
 **🔸 Education:** B.Tech in Computer Science & Engineering  
 **🔸 Current Role:** Full Stack Developer & AI/ML Enthusiast  
-**🔸 Coding Since:** 2020 (5+ years)  
 **🔸 Favorite Languages:** JavaScript, Python, TypeScript  
-**🔸 Currently Building:** Portfolio 2.0 & AI Projects  
+**🔸 Currently Building:** Portfolio & AI Projects  
 
 **🔸 Interests:**
 - Web Development 🌐
 - Machine Learning 🤖
 - Problem Solving 🧩
-- Open Source 🌟
-
-**🔸 Fun Fact:** I debug with console.log() and I'm not ashamed! 😄
 
 **🔸 Currently Learning:**
-- Advanced React Patterns
+- React Patterns
 - Deep Learning
-- Cloud Architecture
 - System Design
 
-**🔸 Ask Me About:** Web Dev, AI/ML, Data Structures, System Design
+**🔸 Ask Me About:** Web Dev, AI/ML, Data Structures
 
 **🔸 Hobbies:**
 - Coding 💻
 - Chess ♟️
 - Reading Tech Blogs 📚
-- Contributing to Open Source 🔓
 
-**🔸 2024 Goals:** Master System Design & Build AI Products  
 **🔸 Motto:** Code, Learn, Repeat! 🔄
 
 </div>
@@ -186,10 +175,9 @@
 
 | 🏆 Achievement | 📋 Details |
 |:---:|:---:|
-| **LeetCode** | 500+ Problems Solved | 
-| **GitHub** | 50+ Repositories |
-| **Open Source** | Active Contributor |
-| **Hackathons** | Multiple Participations |
+| **LeetCode** | 200+ Problems Solved | 
+| **GitHub** | 20+ Repositories |
+| **Projects** | Multiple Web Apps |
 
 </div>
 
@@ -285,24 +273,15 @@
 <div align="center">
 
 **🔸 Currently Learning:**
-- Advanced React Patterns
+- React Patterns
 - System Design
-- Cloud Architecture
 
 **🔸 Currently Building:**
-- Portfolio 2.0
-- AI-Powered Tools
-- Open Source Contributions
-
-**🔸 Currently Exploring:**
-- Web3 Technologies
-- DevOps Practices
-- Mobile Development
+- Portfolio & AI Projects
 
 **🔸 Currently Reading:**
 - Clean Code
 - System Design Interview
-- AI Research Papers
 
 **🔸 Motto:** Always learning, always growing! 🚀
 
