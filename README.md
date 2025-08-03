@@ -99,17 +99,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=ayushsharawat&theme=dark&card_width=400" alt="LeetCode Stats" />
+        <img src="https://leetcode-stats-six.vercel.app/api?username=aayushsharawat&theme=dark&card_width=400" alt="LeetCode Stats" />
       </td>
       <td align="center">
-        <img src="https://leetcode.card.workers.dev/ayushsharawat?theme=dark&font=baloo&extension=null&card_width=400" alt="LeetCode Card" />
+        <img src="https://leetcode.card.workers.dev/aayushsharawat?theme=dark&font=baloo&extension=null&card_width=400" alt="LeetCode Card" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://leetcode-badge.vercel.app/api/ayushsharawat?label=Solved&style=for-the-badge" alt="LeetCode Badge"/>
+  <img src="https://leetcode-badge.vercel.app/api/aayushsharawat?label=Solved&style=for-the-badge" alt="LeetCode Badge"/>
   <img src="https://img.shields.io/badge/DSA-Problem%20Solver-brightgreen?style=for-the-badge&logo=leetcode" alt="DSA Badge"/>
   <img src="https://img.shields.io/badge/Algorithms-Enthusiast-blue?style=for-the-badge&logo=algorithm" alt="Algorithms Badge"/>
 </div>
@@ -144,7 +144,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/ayushsharawat">
+        <a href="https://leetcode.com/u/aayushsharawat/">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40" height="40"/>
           <br><b>LeetCode</b>
         </a>
