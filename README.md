@@ -69,7 +69,6 @@
 
 **🔸 2024 Goals:** Master System Design & Build AI Products  
 **🔸 Motto:** Code, Learn, Repeat! 🔄
-```
 
 </div>
 
