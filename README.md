@@ -285,17 +285,27 @@
 
 <div align="center">
 
-```typescript
-// Recent Focus Areas
-const currentFocus = {
-    learning: ["Advanced React Patterns", "System Design", "Cloud Architecture"],
-    building: ["Portfolio 2.0", "AI-Powered Tools", "Open Source Contributions"],
-    exploring: ["Web3 Technologies", "DevOps Practices", "Mobile Development"],
-    reading: ["Clean Code", "System Design Interview", "AI Research Papers"]
-};
+**🔸 Currently Learning:**
+- Advanced React Patterns
+- System Design
+- Cloud Architecture
 
-console.log("Always learning, always growing! 🚀");
-```
+**🔸 Currently Building:**
+- Portfolio 2.0
+- AI-Powered Tools
+- Open Source Contributions
+
+**🔸 Currently Exploring:**
+- Web3 Technologies
+- DevOps Practices
+- Mobile Development
+
+**🔸 Currently Reading:**
+- Clean Code
+- System Design Interview
+- AI Research Papers
+
+**🔸 Motto:** Always learning, always growing! 🚀
 
 </div>
 
