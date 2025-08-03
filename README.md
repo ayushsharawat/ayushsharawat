@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ayush+Sharawat+👋;Full+Stack+Developer+💻;AI%2FML+Enthusiast+🤖;Always+Learning+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ayush+Sharawat+👋;Full+Stack+Developer+💻;Always+Learning+📚" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -27,37 +27,24 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <div align="left">
 
 ### 👨‍💻 Quick Facts
 
-**🔸 Pronouns:** He/Him  
 **🔸 Location:** India 🇮🇳  
 **🔸 Education:** B.Tech in Computer Science & Engineering  
-**🔸 Current Role:** Full Stack Developer & AI/ML Enthusiast  
-**🔸 Favorite Languages:** JavaScript, Python, TypeScript  
-**🔸 Currently Building:** Portfolio & AI Projects  
+**🔸 Role:** Full Stack Developer  
+**🔸 Languages:** JavaScript, Python, TypeScript  
 
 **🔸 Interests:**
 - Web Development 🌐
-- Machine Learning 🤖
 - Problem Solving 🧩
 
-**🔸 Currently Learning:**
-- React Patterns
-- Deep Learning
-- System Design
-
-**🔸 Ask Me About:** Web Dev, AI/ML, Data Structures
-
-**🔸 Hobbies:**
-- Coding 💻
-- Chess ♟️
-- Reading Tech Blogs 📚
-
-**🔸 Motto:** Code, Learn, Repeat! 🔄
+**🔸 Currently Learning:** React Patterns, System Design  
+**🔸 Ask Me About:** Web Dev, Data Structures  
+**🔸 Hobbies:** Coding 💻, Chess ♟️, Tech Blogs 📚
 
 </div>
 
@@ -103,46 +90,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <h3>🤖 AI/ML & Data Science</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <h3>📈 GitHub Stats Overview</h3>
-  <table>
-    <tr>
-      <td>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ayushsharawat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&card_width=400"/>
-      </td>
-      <td>
-        <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsharawat&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&card_width=400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsharawat&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushsharawat&theme=tokyo-night&area=true&hide_border=true&radius=16" width="100%"/>
-</div>
-
-<div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsharawat&theme=tokyonight&row=1&column=6&margin-h=8&margin-w=8&no-bg=false&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 LeetCode & Competitive Programming
@@ -168,31 +115,6 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 📋 Details |
-|:---:|:---:|
-| **LeetCode** | 200+ Problems Solved | 
-| **GitHub** | 20+ Repositories |
-| **Projects** | Multiple Web Apps |
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushsharawat&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushsharawat&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushsharawat&theme=tokyonight" />
-</div>
 
 ---
 
@@ -268,27 +190,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💡 Latest Blog Posts & Activities
-
-<div align="center">
-
-**🔸 Currently Learning:**
-- React Patterns
-- System Design
-
-**🔸 Currently Building:**
-- Portfolio & AI Projects
-
-**🔸 Currently Reading:**
-- Clean Code
-- System Design Interview
-
-**🔸 Motto:** Always learning, always growing! 🚀
-
-</div>
-
----
-
 ## 🎮 Fun Zone
 
 <div align="center">
@@ -312,11 +213,9 @@
         <h3>🤝 I'm Open To:</h3>
         <ul align="left">
           <li>💼 Full Stack Development Projects</li>
-          <li>🤖 AI/ML Collaborations</li>
           <li>🌟 Open Source Contributions</li>
           <li>✍️ Technical Writing</li>
           <li>🎓 Mentoring & Knowledge Sharing</li>
-          <li>🚀 Startup Opportunities</li>
         </ul>
       </td>
       <td align="center" width="50%">
