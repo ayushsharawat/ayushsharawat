@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=ayushsharawat&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ayushsharawat?label=Followers&style=for-the-badge&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/ayushsharawat?label=Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
-  <a href="https://ayushsharawat.github.io/portfolio-2.0/">
+  <a href="https://ayush-sharawat.me/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=for-the-badge&logo=google-chrome" alt="Portfolio" />
   </a>
 </div>
@@ -265,7 +265,7 @@ Advanced GitHub repository search and analysis tool with detailed metrics and vi
   <table>
     <tr>
       <td align="center">
-        <a href="https://ayushsharawat.github.io/portfolio-2.0/">
+        <a href="https://ayush-sharawat.me/">
           <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=40" height="40"/>
           <br><b>Portfolio</b>
         </a>
